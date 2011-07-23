@@ -2,3 +2,4 @@
 
 require:
     - play
+    - org.jsoup -> jsoup 1.5.2
