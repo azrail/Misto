@@ -1,0 +1,12 @@
+.project
+eclipse
+temp
+.classpath
+.settings
+test-result
+logs
+server.pid
+tmp
+data
+modules
+attachments
